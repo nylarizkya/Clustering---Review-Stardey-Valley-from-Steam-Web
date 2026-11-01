@@ -1,2 +1,2 @@
 # Clustering---Review-Stardey-Valley-from-Steam-Web
-Proyek ini berisi proses web clustering data review game Stardew Valley dari Steam. Proses clustering melibatkan Hierarki Clustering dan Non Hierarki Clustering (K-Means)
+Proyek ini membahas proses pengolahan dan analisis data ulasan pengguna game Stardew Valley yang diperoleh dari platform Steam. Analisis dilakukan melalui dua pendekatan, yaitu Unsupervised Learning menggunakan Hierarchical Clustering (metode Ward) dan Non-Hierarchical Clustering (algoritma K-Means), serta Supervised Learning menggunakan algoritma Random Forest untuk melakukan klasifikasi sentimen ulasan menjadi positif dan negatif.
